@@ -18,11 +18,8 @@ website:
   title: "dhblog"
   site-url: "https://dienhoa.github.io/dhblog/"
   description: "Dien-Hoa AI Blog"
-  execute: 
-    enabled: false
   twitter-card: true
   open-graph: true
-  reader-mode: true
   repo-branch: main
   repo-url: "https://github.com/dienhoa/dhblog/"
   repo-actions: [issue]
