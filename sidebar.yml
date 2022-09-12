@@ -3,3 +3,4 @@ website:
     contents:
       - index.ipynb
       - SSD_base.ipynb
+      - captcha.ipynb
